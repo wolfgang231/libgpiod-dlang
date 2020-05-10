@@ -1,0 +1,21 @@
+{
+	"authors": [
+		"Wolfgang"
+	],
+    "targetType": "library",
+    "targetName": "gpiod-d",
+	"copyright": "Copyright © 2020, Wolfgang",
+	"description": "D Programming Language bindings for the libgpiod library",
+	"license": "LGPL 2.1",
+	"name": "libgpiod-dlang",
+	"version": "0.0.1",
+    "configurations": [
+        {
+            "name": "linux",
+            "platforms": ["linux"],
+            "libs": [
+                "gpiod"
+            ]
+        },
+    ]
+}
