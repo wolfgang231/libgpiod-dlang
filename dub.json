@@ -8,7 +8,7 @@
 	"description": "D Programming Language bindings for the libgpiod library",
 	"license": "LGPL 2.1",
 	"name": "libgpiod-dlang",
-	"version": "0.0.1",
+	"version": "0.0.3",
     "configurations": [
         {
             "name": "linux",
